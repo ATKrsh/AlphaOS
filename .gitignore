@@ -1,0 +1,14 @@
+# AlphaOS Git Ignore
+
+# Ignore the build outputs folder
+build/
+
+# Ignore the final compiled OS disk image
+os-image.bin
+
+# Editor / System files
+.vscode/
+*.swp
+*~
+Thumbs.db
+Desktop.ini
